@@ -38,4 +38,4 @@
 
 
 
-[Смотреть ход решения](https://github.com/ваш-логин/ваш-репозиторий/blob/main/notebooks/анализ_поведения_пользователей.ipynb)
+[Смотреть ход решения](https://github.com/EquityPulse/DA_study_projects/blob/main/Yandex_Статистический%20анализ%20данных/Статистический%20анализ%20данных.ipynb)
