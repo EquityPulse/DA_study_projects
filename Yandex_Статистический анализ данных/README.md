@@ -11,14 +11,13 @@
 - Проверка задач отдела маркетинга.
 
 ## Инструменты
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy">
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
-</div>
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- SciPy
 
+## Проведенные работы
 - Предобработка данных
 - Исследовательский анализ данных
 - Визуализация данных
